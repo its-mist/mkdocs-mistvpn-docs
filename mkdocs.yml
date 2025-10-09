@@ -14,6 +14,7 @@ markdown_extensions:
 nav:
   - Как подключиться?: index.md
   - Партнерская программа: referral.md
+  - О Torrent Blocker: tblocker.md
   - VPN клиенты:
     - IOS:
       - Streisand: 
@@ -51,6 +52,9 @@ extra:
     - icon: fontawesome/brands/telegram
       link: https://t.me/mistvpn_bot
       name: Перейти в Telegram Mist VPN
+
+extra_css:
+  - css/extra.css
 
 
 copyright: Made for Mist VPN with love <3
