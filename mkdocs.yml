@@ -13,6 +13,7 @@ markdown_extensions:
 
 nav:
   - Как подключиться?: index.md
+  - Как обновить подписку?: renew.md
   - Партнерская программа: referral.md
   - О Torrent Blocker: tblocker.md
   - VPN клиенты:
