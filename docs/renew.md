@@ -20,7 +20,7 @@ Koala Clash на Windows:
 
 ### 2. Добавление новой подписки
 
-**1)** Зайти в **[бота MistVPN](https://t.me/mistvpn_bot)**   
+**1)** Зайти в **[бота MistVPN](https://t.me/mistvpn_bot)**, ввести команду */start*   
 **2)** *📱 Подписка* -> *🔗 Перейти на страницу подписки*:
 <div style="text-align: center;">
   <img src="/media/image33.png" width="400" />
