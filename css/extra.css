@@ -1,0 +1,21 @@
+/* Светлая тема */
+[data-md-color-scheme="default"] h1,
+[data-md-color-scheme="default"] h2,
+[data-md-color-scheme="default"] h3 {
+  color: #63DE17 !important;
+}
+
+[data-md-color-scheme="default"] strong {
+  color: #000000 !important;
+}
+
+/* Тёмная тема */
+[data-md-color-scheme="slate"] h1,
+[data-md-color-scheme="slate"] h2,
+[data-md-color-scheme="slate"] h3 {
+  color: #63DE17 !important;
+}
+
+[data-md-color-scheme="slate"] strong {
+  color: #ffffff !important;
+}
